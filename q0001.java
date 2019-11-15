@@ -1,3 +1,14 @@
+/*  Given an Array of non negative Integers and a number. You need to print all the starting and ending indices of Subarrays having their sum equal to the given integer.
+For Example :-
+
+Input-int[] 
+arr = {2, 3, 6, 4, 5};
+
+int num = 20
+
+Output-
+starting index : 0, Ending index : 4*/
+
 import java.util.Scanner;
 
 public class q0001 
